@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   Hello Laravel
+                   Hello Laravel Code pipe line used
                 </div>
 
                 <div class="links">
